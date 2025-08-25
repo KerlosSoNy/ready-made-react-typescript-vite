@@ -1,6 +1,6 @@
 
 export default function Navbar() {
     return (
-        <div>navbar</div>
+        <div className="flex flex-col items-center w-full">navbar</div>
     )
 }
